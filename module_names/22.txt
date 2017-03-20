@@ -7,7 +7,6 @@ Binding
 Class
 Comparable
 Complex
-Complex::compatible
 Data
 Dir
 EOFError
@@ -198,7 +197,6 @@ MonitorMixin::ConditionVariable
 MonitorMixin::ConditionVariable::Timeout
 Mutex
 NameError
-NameError::message
 NilClass
 NoMemoryError
 NoMethodError
@@ -219,7 +217,6 @@ Random
 Range
 RangeError
 Rational
-Rational::compatible
 RbConfig
 Regexp
 RegexpError
@@ -255,4 +252,3 @@ TypeError
 UnboundMethod
 UncaughtThrowError
 ZeroDivisionError
-fatal

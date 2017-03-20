@@ -7,12 +7,10 @@ Class
 ClosedQueueError
 Comparable
 Complex
-Complex::compatible
 Data
 Delegator
 DidYouMean
 DidYouMean::ClassNameChecker
-DidYouMean::ClassNameChecker::ClassName
 DidYouMean::Correctable
 DidYouMean::Formatter
 DidYouMean::Jaro
@@ -194,8 +192,6 @@ IO::EINPROGRESSWaitReadable
 IO::EINPROGRESSWaitWritable
 IO::WaitReadable
 IO::WaitWritable
-IO::generic_readable
-IO::generic_writable
 IOError
 IndexError
 Integer
@@ -215,7 +211,6 @@ MonitorMixin
 MonitorMixin::ConditionVariable
 MonitorMixin::ConditionVariable::Timeout
 NameError
-NameError::message
 NilClass
 NoMemoryError
 NoMethodError
@@ -237,7 +232,6 @@ Random::Formatter
 Range
 RangeError
 Rational
-Rational::compatible
 RbConfig
 Regexp
 RegexpError
@@ -276,4 +270,3 @@ UnboundMethod
 UncaughtThrowError
 Warning
 ZeroDivisionError
-fatal

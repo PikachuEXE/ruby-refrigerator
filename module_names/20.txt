@@ -7,7 +7,6 @@ Binding
 Class
 Comparable
 Complex
-Complex::compatible
 ConditionVariable
 Data
 Date
@@ -186,7 +185,6 @@ MonitorMixin::ConditionVariable
 MonitorMixin::ConditionVariable::Timeout
 Mutex
 NameError
-NameError::message
 NilClass
 NoMemoryError
 NoMethodError
@@ -206,7 +204,6 @@ Random
 Range
 RangeError
 Rational
-Rational::compatible
 RbConfig
 Regexp
 RegexpError
@@ -240,4 +237,3 @@ TrueClass
 TypeError
 UnboundMethod
 ZeroDivisionError
-fatal

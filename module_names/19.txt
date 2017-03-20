@@ -169,7 +169,6 @@ Method
 Module
 Mutex
 NameError
-NameError::message
 NilClass
 NoMemoryError
 NoMethodError
@@ -216,4 +215,3 @@ TrueClass
 TypeError
 UnboundMethod
 ZeroDivisionError
-fatal
